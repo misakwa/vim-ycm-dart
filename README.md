@@ -1,2 +1,2 @@
-Registers the Dart Analysis Server as a language server with
-[`vim-lsc`](https://github.com/natebosch/vim-lsc)
+Registers the Dart Analysis Server as a language server using examples from
+[`ycm-lsp-examples`](https://github.com/ycm-core/lsp-examples)
