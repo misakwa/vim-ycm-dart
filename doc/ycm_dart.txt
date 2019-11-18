@@ -1,0 +1,13 @@
+YouCompleteMe  Language Server Client config for Dart
+
+INTRODUCTION                                    *ycm-dart-intro*
+
+vim-ycm-dart configures the youcompleteme plugin to run the Dart Analysis Server for
+`dart` file types. This plugin requires either `dart` or `flutter` to exist on your path.
+
+It is based on https://github.com/natebosch/vim-lsc.
+
+
+CONFIGURATION                                   *ycm-dart-configure*
+
+ vim:tw=78:sw=4:ts=8:ft=help:norl:
